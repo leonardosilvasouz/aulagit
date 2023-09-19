@@ -1,3 +1,2 @@
 # aulagit
 trabalho
-g 
